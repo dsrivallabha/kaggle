@@ -1,6 +1,8 @@
 
 # coding: utf-8
 
+#Kaggle kernel for the Recruit Restaurant Visitor Forecasting. 
+# <https://www.kaggle.com/c/recruit-restaurant-visitor-forecasting>
 
 
 # This Python 3 environment comes with many helpful analytics libraries installed
